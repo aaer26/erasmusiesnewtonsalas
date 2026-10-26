@@ -1,9 +1,0 @@
-WEB ERASMUS+ · IES NEWTON SALAS
-
-Última versión de la web: incluye el calendario, el cuadrante de asignaciones y el filtro por profesor.
-
-Descomprime el ZIP y abre index.html en un navegador.
-Para publicarla en otro alojamiento, sube todos los archivos de esta carpeta conservando su estructura.
-
-El filtro recuerda la selección en el navegador cuando este permite el almacenamiento local.
-La tipografía de Google Fonts se carga desde Internet.
